@@ -1,0 +1,59 @@
+.foto{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid rgb(12, 1, 1);
+    display: block;
+    margin: 0px auto;
+}
+
+#title{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+    font-family: arial;
+    background: white;
+}
+
+p{
+    display: block;
+    margin-block-start: 6px;
+    margin-block-end: 6px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.linha{
+    border-top: 1px solid black;
+}
+
+h2{
+    padding: 0 0 0 5%;
+}
+
+/* cima direita baixo esquerda */
+
+.objetivo{
+    font-family: arial;
+    margin: 2% 0 0 5%;
+}
+
+.qualificacao{
+    font-family: arial;
+    margin: 2% 0 0 5%;
+    line-height: 30px;
+}
+
+.experiencia{
+    font-family: arial;
+    margin: 2% 0 0 5%;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+}
